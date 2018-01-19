@@ -1,23 +1,30 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
+  "username": "nicco88",
+  "name": "Nicco",
   "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
+    "http://github.com/nicco88/profiles",
+    "https://github.com/nicco88/travel-site",
+    "https://github.com/nicco88/indecision-app"
   ],
   "background":[
-    "A graduate student from NTUT Interaction Design Dept",
-    "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
+    "A graduate student from the University of Milan, Linguistic and Cultural Mediation Sciences",
+    "Front-end & some back-end basics (node.js, express.js, mongoDB)",
+    "Javascript 1 year and a half",
+    "HTML 2 years",
+    "CSS 2 years",
+    "SASS 1 year",
+    "postcss 5 months",
+    "git 5 months",
+    "React 1 month"
   ],
   "interests":[
     "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
+    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)",
+    "Blockchain Technology (just starting)",
+    "Languages",
+    "Travel",
+    "Martial Arts(?)"
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  "twitter": "https://twitter.com/PeregoNicco",
+  "github": "https://github.com/nicco88"
 }
